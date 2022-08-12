@@ -1,0 +1,13 @@
+@mixin txt-style($color, $font-size, $font-family) {
+  color: $color;
+  font-size: $font-size;
+  font-family: $font-family;
+}
+.txt {
+  h1 {
+    @include txt-style(red, 30px, arial);
+  }
+  p {
+    @include txt-style(blue, 15px, helvetica);
+  }
+}
