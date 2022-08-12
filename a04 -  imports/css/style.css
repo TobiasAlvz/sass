@@ -1,0 +1,13 @@
+.txtBuy {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgba(255, 45, 45, 0.815);
+}
+
+.btn {
+  padding: 10px 10px;
+  border: 1px solid rgba(255, 45, 45, 0.815);
+  background-color: rgba(29, 29, 231, 0.699);
+}
+
+/*# sourceMappingURL=style.css.map */

@@ -1,12 +1,13 @@
 // Criando variavel.
 $btn-color: #ff4043;
+$btn-width: 100px;
 
 .btn1 {
-  width: 60px;
+  width: $btn-width;
   background-color: $btn-color;
 }
 
 .btn2 {
-  width: 70px;
+  width: $btn-width;
   background-color: $btn-color;
 }
