@@ -1,0 +1,14 @@
+.title {
+  font-size: 40px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+.btn {
+  width: 90px;
+  padding: 10px 10px;
+  background-color: $btn-color;
+  color: white;
+  border-radius: 10px;
+  cursor: pointer;
+}

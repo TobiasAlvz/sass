@@ -1,0 +1,17 @@
+.btn {
+  width: 150px;
+  height: 50px;
+  background: none;
+  border-radius: 20px;
+}
+.btn.btn01 {
+  background-color: purple;
+}
+.btn.btn02 {
+  background-color: red;
+}
+.btn.btn03 {
+  background-color: blue;
+}
+
+/*# sourceMappingURL=style.css.map */

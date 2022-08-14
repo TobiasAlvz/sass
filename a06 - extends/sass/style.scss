@@ -1,0 +1,16 @@
+.btn {
+  width: 150px;
+  height: 50px;
+  background: none;
+  border-radius: 20px;
+
+  &.btn01 {
+    background-color: purple;
+  }
+  &.btn02 {
+    background-color: red;
+  }
+  &.btn03 {
+    background-color: blue;
+  }
+}
